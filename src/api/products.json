@@ -1,0 +1,6 @@
+[
+  { "id": 0, "name": "Lamborgini", "price": 293500, "available": 3 },
+  { "id": 1, "name": "Ferrari", "price": 250500, "available": 2 },
+  { "id": 2, "name": "Lada", "price": 750, "available": 5000 },
+  { "id": 3, "name": "Jaklin", "price": 5000000, "available": 1 }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": 0, "name": "Lamborgini", "total": 0, "price": 293500, "count": 0 },
+  { "id": 1, "name": "Ferrari", "total": 0, "price": 250500, "count": 0 },
+  { "id": 2, "name": "Lada", "total": 0, "price": 750, "count": 0 },
+  { "id": 3, "name": "Jaklin", "total": 0, "price": 5000000, "count": 0 }
+]
